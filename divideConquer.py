@@ -26,3 +26,5 @@ def minMax(arr, lft, rgt, min, max):
 #arr = [5,4,3,6,7,3,2,0]
 print(minMax([4,1,9,0,4,4], 0, 5, 10, -10))
 
+
+
